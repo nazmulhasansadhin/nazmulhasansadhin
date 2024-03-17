@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nazmul Hasan Sadhin</h1>
-<h3 align="center">I am a passionate UI or UX Graphics Designer With Graphics Design from Bangladesh.</h3>
+### Hi there 👋, Hi , I'm Nazmul Hasan Sadhin
+#### Hi 👋, I'm Nazmul Hasan Sadhin
+![Hi 👋, I'm Nazmul Hasan Sadhin](https://scontent.fcla5-1.fna.fbcdn.net/v/t39.30808-6/432778136_1924910394633572_3549627778442227259_n.png?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHHjHdM0vgYos56uEONaL54QBnWoo2KjHZAGdaijYqMdvSZp4bVEBDQK2gjehc24dl2hdANS0fFSrqIQem2VOHj&_nc_ohc=8cFi-HtyZGUAX_HWTbB&_nc_zt=23&_nc_ht=scontent.fcla5-1.fna&oh=00_AfBlk8uoSHeoB6h2qmmXBWnBmLVzUp18QPJThYhcMXwPQg&oe=65FBDE2B)
+
+I am a passionate UI or UX Graphics Designer With Graphics Design from Bangladesh.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 - 🔭 I’m currently working on [Dream House Real Estate Website Requirements](https://www.notion.so/enjamul/Dream-House-Real-Estate-Website-Requirements-f6878b32f39843adb60500680cd76a15)
 
